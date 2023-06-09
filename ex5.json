@@ -1,0 +1,20 @@
+
+import json
+
+file_path = "ex5.json"
+
+with open(file_path, "r") as file:
+    ex5 = json.load(file)
+
+    example 5{
+        "type": "donut",
+		"name": "Old fashioned"
+    }
+    
+    example 5.append({
+        
+        "type": "batter",
+		"name": "Coffee"
+    })
+
+    
